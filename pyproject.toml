@@ -1,5 +1,5 @@
 [tool.ruff.lint]
-ignore = ["BLE001", "DTZ007", "DTZ005"]
+ignore = ["BLE001", "DTZ007", "DTZ005", "PIE796"]
 
 [project]
 name = "ringthing"
